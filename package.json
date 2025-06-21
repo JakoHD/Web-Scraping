@@ -1,0 +1,20 @@
+{
+  "name": "pratica-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "Parser": "^0.0.1",
+    "puppeteer": "^24.9.0",
+    "xlsx": "^0.18.5"
+  }
+}
